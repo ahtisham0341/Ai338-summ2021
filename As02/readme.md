@@ -1,5 +1,9 @@
-![image](https://user-images.githubusercontent.com/68895242/125669549-6026c630-d2ac-4ebc-8bae-80d54ef0f55c.png)
-![1](https://user-images.githubusercontent.com/68895242/125669729-785c70aa-e46f-416d-b2fa-f4c564c34196.jpeg)
-![2](https://user-images.githubusercontent.com/68895242/125669770-9d6d07c1-d814-4108-9d46-cf9bb40aea85.jpeg)
-![image](https://user-images.githubusercontent.com/68895242/125670517-5567a247-a05f-436d-86e5-e2eb6e5be701.png)
-![image](https://user-images.githubusercontent.com/68895242/125670596-da12fc50-30e0-47f0-b8f1-e9b2558bc0dc.png)
+Dummy submission of random 0 and 1 on passanger ID....
+
+![image](https://user-images.githubusercontent.com/68895242/126200302-9496ed39-54dd-4d10-8efc-93fa34dab3ef.png)
+![image](https://user-images.githubusercontent.com/68895242/126200561-67d8d0dc-b830-4347-b06c-913a9e2e00e1.png)
+![image](https://user-images.githubusercontent.com/68895242/126200605-493433e8-4bc2-4431-97cb-7794f02668e7.png)
+![image](https://user-images.githubusercontent.com/68895242/126200705-71dbcbe3-95ff-465c-bbfc-3077dab74894.png)
+![image](https://user-images.githubusercontent.com/68895242/126200745-0616cf2f-7775-4198-aaf7-529848e00894.png)
+
+
