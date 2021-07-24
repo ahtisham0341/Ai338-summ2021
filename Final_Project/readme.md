@@ -7,3 +7,15 @@ Linear Classifier ScreenShot
 
 ![image](https://user-images.githubusercontent.com/68895242/126866842-73335d0e-b4c3-4c47-9c1f-26a0aff6b58f.png)
 
+SVM ScreenShot
+
+![image](https://user-images.githubusercontent.com/68895242/126867066-dfab3019-11f1-48b7-b1e6-4185b00ae9fb.png)
+
+REPORT:
+
+Some of the advantages we got of machine learning are:
+
+It enables the machine learning algorithm to train faster.
+It reduces the complexity of a model and makes it easier to interpret.
+
+
